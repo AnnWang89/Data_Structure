@@ -3,6 +3,7 @@
 * **輸入**: 兩個多項式
 * **輸出**: 兩多項式相加
 * ex: 
+
     input: 
     > x^6^+3x^5^+x^3^
     > 2x^5^+x
@@ -14,6 +15,7 @@
 * **輸入**: 兩個矩陣(先輸入矩陣大小再輸入矩陣的值)
 * **輸出**: 兩矩陣相加
 * ex: 
+    
     input: 
     > 3 3 
     > 1 2 3
@@ -33,6 +35,7 @@
 * **輸入**: 迷宮大小及路徑(以0表示)
 * **輸出**: 走迷宮路線的座標
 * ex: 
+    
     input: 
     > 5 5
     > 0 1 1 1 1
@@ -54,6 +57,7 @@
 * **輸入**: Infix
 * **輸出**: Postfix
 * ex: 
+    
     input: 
     > 1+3*2+6+(1-2)
     
@@ -64,6 +68,7 @@
 * **輸入**: Infix
 * **輸出**: Postfix
 * ex: 
+    
     input: 
     > 1+3*2+6+(1-2)
     
@@ -74,6 +79,7 @@
 * **輸入**: 樹的大小與每個node的值
 * **輸出**: Tree Postorder/Preorder Traversal
 * ex: 
+   
     input: 
     > 3
     > 1 2 3
@@ -85,6 +91,7 @@
 * **輸入**: 樹的大小與Inorder及Preorder
 * **輸出**: 該樹的Leaves
 * ex: 
+    
     input: 
     > 3
     > 2 1 3
@@ -97,6 +104,7 @@
 * **輸入**: edge 數量及所有的edge
 * **輸出**: 是否Connected
 * ex: 
+    
     input: 
     > 2
     > 1 2
@@ -109,6 +117,7 @@
 * **輸入**: edge 數量及所有的edge上weights
 * **輸出**: Minimum Spanning Tree 的 weight
 * ex: 
+    
     input: 
     > 4
     > 1 2 1
@@ -123,6 +132,7 @@
 * **輸入**: a list
 * **輸出**: a sorted list
 * ex: 
+    
     input: 
     > 2 5 4 1 3
     
